@@ -28,3 +28,7 @@
 *.txt
 *.wav
 *.xz
+/BattleShip
+/Connect4
+/GameOfLife
+/OragamiWarrior
